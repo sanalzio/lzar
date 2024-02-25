@@ -5,19 +5,19 @@
 ## Table of Contents
 - [LZAR](#lzar)
   - [Table of Contents](#table-of-contents)
-  - [❔ What is the LZAR?](#❔-what-is-the-lzar)
-  - [❔🔧 How to use?](#❔🔧-how-to-use)
+  - [❔ What is the LZAR?](#-what-is-the-lzar)
+  - [❔🔧 How to use?](#-how-to-use)
     - [Using with system arguments](#using-with-system-arguments)
     - [Or you can use with only lzar](#or-you-can-use-with-only-lzar)
-  - [✔ Installation](#✔-installation)
-    - [❔ Which release should I use?](#❔-which-release-should-i-use)
+  - [✔ Installation](#-installation)
+    - [❔ Which release should I use?](#-which-release-should-i-use)
       - [With this table you can select the release you need to use.](#with-this-table-you-can-select-the-release-you-need-to-use)
       - [But what is the "x86" and "x64" in the table above?](#but-what-is-the-x86-and-x64-in-the-table-above)
     - [What is the "-node" releases?](#what-is-the--node-releases)
-  - [🎨 Usage Examples](#🎨-usage-examples)
+  - [🎨 Usage Examples](#-usage-examples)
   - [Total lines of code...](#total-lines-of-code)
-  - [☕ Buy me a coffee](#☕-buy-me-a-coffee)
-  - [📝 LICENSE](#📝-license)
+  - [☕ Buy me a coffee](#-buy-me-a-coffee)
+  - [📝 LICENSE](#-license)
 
 ![thumbnail](./resources/thumbnail.jpg)
 
@@ -137,5 +137,8 @@ $ lzar
 ## 📝 LICENSE
 GPL-V3
 
+---
+
 Thanks to the [**egonelbre/gophers**](https://github.com/egonelbre/gophers) repository for gophers.
+
 ![demo](./resources/demo.gif)
