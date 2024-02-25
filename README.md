@@ -15,8 +15,9 @@
       - [But what is the "x86" and "x64" in the table above?](#but-what-is-the-x86-and-x64-in-the-table-above)
     - [What is the "-node" releases?](#what-is-the--node-releases)
   - [🎨 Usage Examples](#🎨-usage-examples)
+  - [Total lines of code...](#total-lines-of-code)
   - [☕ Buy me a coffee](#☕-buy-me-a-coffee)
-  - [📝 LICENSE](#-📝license)
+  - [📝 LICENSE](#📝-license)
 
 ![thumbnail](./resources/thumbnail.jpg)
 
@@ -124,6 +125,11 @@ $ lzar
 
 > █
 ```
+
+## Total lines of code...
+<ins>for node version:</ins> **99**
+
+<ins>for go version:</ins> **121**
 
 ## ☕ Buy me a coffee
 <a href="https://www.buymeacoffee.com/sanalzio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50px"></a>
